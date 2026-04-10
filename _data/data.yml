@@ -1,29 +1,24 @@
-name: John Doe
+name: Phạm Quốc Thắng
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: phamquocthang1402@gmail.com
+  github: Thang140207
+  phone: 0793557887
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Tiếng Việt
+  - idiom: Tiếng Anh (Đọc hiểu tài liệu chuyên ngành)
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Sinh viên năm nhất - Ngành Khoa học máy tính
+    time: 2025 - Nay
+    university: Đại học Tôn Đức Thắng (Phân hiệu Khánh Hòa)
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
 
 skills:
   - category: Backend
@@ -85,14 +80,14 @@ publications:
     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Minesweeper Boss Rush
+    link: https://github.com/Thang140207/minesweeper-boss-rush/settings/pages
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Cool Project 
-    link: #
+  - title: HTML Website
+    link: https://github.com/Thang140207/An-HTML-website-I-created-back-in-high-school.
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
