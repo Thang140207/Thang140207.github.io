@@ -6,98 +6,55 @@ fork: true
 contact:
   email: phamquocthang1402@gmail.com
   github: Thang140207
-  phone: 0793557887
-  gitlab: 
-  twitter: 
+  phone: "0793557887"
 
 languages:
-  - idiom: Tiếng Việt
+  - idiom: Tiếng Việt (Bản ngữ)
   - idiom: Tiếng Anh (Đọc hiểu tài liệu chuyên ngành)
 
 education:
   - degree: Sinh viên năm nhất - Ngành Khoa học máy tính
-    time: 2025 - Nay
+    time: 2025 - Hiện tại
     university: Đại học Tôn Đức Thắng (Phân hiệu Khánh Hòa)
 
-
 skills:
-  - category: Backend
+  - category: Ngôn ngữ lập trình
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - C / C++
+      - Python
+      - JavaScript
+  - category: Phát triển Web
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - HTML5 & CSS3
+  - category: Kỹ năng khác
     skill:
-      - Docker
-      - Kubernetes 
+      - Tư duy Logic & Thuật toán
+      - Quản lý mã nguồn (Git/GitHub)
+
+ awards:
+  - title: Giải Ba - Cuộc thi Sáng tạo truyện tranh bằng Trí tuệ nhân tạo (AI)
+    time: 2025
+    details: Ứng dụng các mô hình ngôn ngữ lớn để xây dựng cốt truyện và biên tập nội dung số sáng tạo.
+
+  - title: Giải Tư - Cuộc thi Khoa học Kỹ thuật cấp Tỉnh
+    time: 2024
+    details: Nghiên cứu và phát triển dự án "XÂY DỰNG PHẦN MỀM LUYỆN TẬP MÔN TIN HỌC LỚP 12 CHO MÁY TÍNH VÀ ĐIỆN THOẠI ANDROID BẰNG DỰ ÁN ISPRING SUITE" áp dụng tư duy logic và giải quyết vấn đề thực tế.
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Sinh viên năm nhất chuyên ngành Khoa học Máy tính với niềm đam mê mãnh liệt dành cho công nghệ và dữ liệu. Sở hữu tư duy logic nhạy bén, khả năng tự học cao và luôn chủ động nghiên cứu các kiến trúc web, thuật toán từ sớm. Định hướng phát triển thành một Kỹ sư phần mềm (Software Engineer) chuyên nghiệp, ứng dụng dữ liệu để giải quyết các bài toán thực tế.
 
-# Experience
-experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
+# Projects
 projects:
-  - title: Minesweeper Boss Rush
-    link: https://github.com/Thang140207/minesweeper-boss-rush/settings/pages
+  - title: Minesweeper Boss Rush (Web Game)
+    link: "https://thang140207.github.io/minesweeper-boss-rush/"
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Dự án game Dò mìn (Minesweeper) sáng tạo kết hợp cơ chế Boss Rush. 
+      - Công nghệ: HTML, CSS, Vanilla JavaScript.
+      - Kỹ năng: Áp dụng Separation of Concerns (phân tách giao diện và logic), xử lý mảng dữ liệu 2 chiều và thuật toán đệ quy (Recursive) để mở ô trống.
 
-  - title: HTML Website
-    link: https://github.com/Thang140207/An-HTML-website-I-created-back-in-high-school.
+  - title: Web Architecture Research (High School Project)
+    link: "https://thang140207.github.io/An-HTML-website-I-created-back-in-high-school/"
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Dự án nghiên cứu tự định hướng hoàn thành từ thời THPT. Xây dựng website hoàn chỉnh dưới 2 kiến trúc: Truyền thống (Multi-page) và Single Page Application (SPA).
+      - Đánh giá sự khác biệt về tốc độ tải trang, cấu trúc thư mục và trải nghiệm người dùng (UX).
