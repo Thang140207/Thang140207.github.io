@@ -31,18 +31,18 @@ skills:
       - Tư duy Logic & Thuật toán
       - Quản lý mã nguồn (Git/GitHub)
 
- awards:
-  - title: Giải Ba - Cuộc thi Sáng tạo truyện tranh bằng Trí tuệ nhân tạo (AI)
-    time: 2025
+# Profile
+profile: |
+  Sinh viên năm nhất chuyên ngành Khoa học Máy tính với niềm đam mê mãnh liệt dành cho công nghệ và dữ liệu. Sở hữu tư duy logic nhạy bén, khả năng tự học cao và luôn chủ động nghiên cứu các kiến trúc web, thuật toán từ sớm. Định hướng phát triển thành một Kỹ sư phần mềm (Software Engineer) chuyên nghiệp, ứng dụng dữ liệu để giải quyết các bài toán thực tế.
+
+awards:
+  - title: Giải Ba - Cuộc thi Sáng tác nội dung bằng Trí tuệ nhân tạo (AI)
+    time: 2026
     details: Ứng dụng các mô hình ngôn ngữ lớn để xây dựng cốt truyện và biên tập nội dung số sáng tạo.
 
   - title: Giải Tư - Cuộc thi Khoa học Kỹ thuật cấp Tỉnh
     time: 2024
-    details: Nghiên cứu và phát triển dự án "XÂY DỰNG PHẦN MỀM LUYỆN TẬP MÔN TIN HỌC LỚP 12 CHO MÁY TÍNH VÀ ĐIỆN THOẠI ANDROID BẰNG DỰ ÁN ISPRING SUITE" áp dụng tư duy logic và giải quyết vấn đề thực tế.
-
-# Profile
-profile: |
-  Sinh viên năm nhất chuyên ngành Khoa học Máy tính với niềm đam mê mãnh liệt dành cho công nghệ và dữ liệu. Sở hữu tư duy logic nhạy bén, khả năng tự học cao và luôn chủ động nghiên cứu các kiến trúc web, thuật toán từ sớm. Định hướng phát triển thành một Kỹ sư phần mềm (Software Engineer) chuyên nghiệp, ứng dụng dữ liệu để giải quyết các bài toán thực tế.
+    details: Nghiên cứu và phát triển dự án Khoa học kỹ thuật áp dụng tư duy logic và giải quyết vấn đề thực tế.
 
 # Projects
 projects:
